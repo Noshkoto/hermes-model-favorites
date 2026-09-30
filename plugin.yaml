@@ -1,0 +1,18 @@
+name: model-favorites
+version: 1.0.0
+description: "Star models and pick them from a Favorites dropdown beside the composer. Right-click any model to favorite it."
+author: Nosh
+license: MIT
+homepage: https://github.com/Noshkoto/hermes-model-favorites
+manifest_version: 2
+api_version: 1
+requires_hermes: ">=0.19"
+tags:
+  - desktop
+  - models
+  - composer
+capabilities:
+  provides_tools: []
+  provides_hooks: []
+  provides_middleware: []
+  requires_env: []
